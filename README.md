@@ -2,12 +2,12 @@
 
 
 PRUNING
--- https://github.com/liyunqianggyn/Awesome-LLMs-Pruning
--- https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main/6-PRUNING
+- https://github.com/liyunqianggyn/Awesome-LLMs-Pruning
+- https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main/6-PRUNING
 
 TRITON
--- https://github.com/IST-DASLab/marlin/tree/master
--- https://pytorch.org/blog/triton-kernel-compilation-stages/
+- https://github.com/IST-DASLab/marlin/tree/master
+- https://pytorch.org/blog/triton-kernel-compilation-stages/
 https://triton-lang.org/main/index.html
 https://github.com/linkedin/Liger-Kernel
 https://github.com/mobiusml/gemlite
