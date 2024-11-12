@@ -17,6 +17,7 @@ TRITON
 
 CUDA
 - https://docs.nvidia.com/cuda/cuda-c-programming-guide/#shared-memory
+- https://youtu.be/86FAWCzIe_4?si=8cdEkVxd90oLMHVD
 
 GPU
 - https://hazyresearch.stanford.edu/blog/2024-05-12-tk
