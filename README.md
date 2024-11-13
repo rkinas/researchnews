@@ -6,6 +6,7 @@ PRUNING
 - https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main/6-PRUNING
 
 TRITON
+- https://youtu.be/zy8ChVd_oTM?si=AFIPuiiWstb1gzFc
 - https://github.com/IST-DASLab/marlin/tree/master
 - https://pytorch.org/blog/triton-kernel-compilation-stages/
 - https://triton-lang.org/main/index.html
