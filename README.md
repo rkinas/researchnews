@@ -48,6 +48,9 @@ INFER
 - https://github.com/flashinfer-ai/flashinfer
 - https://github.com/InternLM/lmdeploy
 
+DECODING
+- https://github.com/codelion/optillm
+
 LLM EVAL
 - https://nanonets.com/blog/beginners-guide-to-ministral/
 
